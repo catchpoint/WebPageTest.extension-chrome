@@ -11,7 +11,7 @@
   },
   "browser_action": {
     "default_icon": "wpt48.png",
-    "default_title": "Test this page"
+    "default_title": "Test performance"
   },
   "background": {
     "scripts": [
